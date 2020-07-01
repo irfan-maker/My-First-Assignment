@@ -1,0 +1,94 @@
+h1 {
+    font-size: 50px;
+    color: goldenrod;
+}
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+/* .name-highlight {
+    color: orange;
+} */
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.half-width img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.top-banner {
+
+    background-image: url("header-bg.png")
+}
+
+section {
+    height: 500px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, Tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+p {
+    color: dimgray;
+}
+
+.dream-area {
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.duration {
+    color: orangered;
+}
+
+
+
+.experience-area {
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.images {
+    max-width: 30%;
+    padding-right: 1.5%;
+    padding-left: 1.5%;
+    float: left;
+
+}
+
+.images img {
+    width: 100%;
+
+}
+
+.comments {
+   text-align: center;
+}
+
+.comments-clients {
+    width: 31%;
+    float:left;
+    margin:5px;
+}
+.comments-clients img{
+    width:100%;
+}	
+
+
